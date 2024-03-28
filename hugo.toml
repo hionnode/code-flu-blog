@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://blog.code-flu.com/'
 languageCode = 'en-us'
 title = 'Code Flu'
 theme = "paper"
