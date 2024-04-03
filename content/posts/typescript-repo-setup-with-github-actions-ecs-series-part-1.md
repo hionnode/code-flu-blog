@@ -7,3 +7,4 @@ draft = true
 
 # ECS Series Part 1: base repo setup with dockerfile and github actions
 
+First step to deploy nodejs app on ECS is to have a nodejs app that is running

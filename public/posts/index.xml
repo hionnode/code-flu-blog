@@ -1,18 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Code Flu</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Code Flu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Mar 2024 13:09:31 +0530</lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Apr 2024 23:07:48 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Write a Function</title>
+      <link>http://localhost:1313/posts/how-to-write-a-function/</link>
+      <pubDate>Mon, 01 Apr 2024 23:07:48 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-write-a-function/</guid>
+      <description>How to write a Function Writing a function as building blocks in our code is what we do daily as programmers, we rarely think about it, and most of the times we end up writing in a wrong way.&#xA;- Step 1 Write the function signature, a one-line purpose statement and a function stub.&#xA;// function parameters a,b int, // need output as sum of a and b function(a,b){ return 4; } </description>
+    </item>
+    <item>
+      <title>Fastify Typescript Boilerplate</title>
+      <link>http://localhost:1313/posts/fastify-typescript-boilerplate/</link>
+      <pubDate>Thu, 28 Mar 2024 16:32:49 +0530</pubDate>
+      <guid>http://localhost:1313/posts/fastify-typescript-boilerplate/</guid>
+      <description>Setting Up a Fastify TypeScript MongoDB Boilerplate In this blog post, we&amp;rsquo;ll walk through the process of setting up a boilerplate project that integrates Fastify, TypeScript, and MongoDB. This setup will allow us to build efficient and high-performance web applications and APIs in Node.js, leveraging the power of TypeScript for static typing and MongoDB for database management.&#xA;Prerequisites Before we start, ensure you have Node.js and npm installed on your system.</description>
+    </item>
+    <item>
+      <title>Typescript Repo Setup With Github Actions Ecs Series Part 1</title>
+      <link>http://localhost:1313/posts/typescript-repo-setup-with-github-actions-ecs-series-part-1/</link>
+      <pubDate>Thu, 28 Mar 2024 14:17:17 +0530</pubDate>
+      <guid>http://localhost:1313/posts/typescript-repo-setup-with-github-actions-ecs-series-part-1/</guid>
+      <description>ECS Series Part 1: base repo setup with dockerfile and github actions First step to deploy nodejs app on ECS is to have a nodejs app that is running</description>
+    </item>
     <item>
       <title>First Post</title>
-      <link>/posts/first-post/</link>
+      <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Thu, 28 Mar 2024 13:09:31 +0530</pubDate>
-      <guid>/posts/first-post/</guid>
+      <guid>http://localhost:1313/posts/first-post/</guid>
       <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
     </item>
   </channel>

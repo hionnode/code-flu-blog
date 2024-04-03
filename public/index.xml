@@ -1,18 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Code Flu</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Code Flu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Mar 2024 13:09:31 +0530</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Apr 2024 23:07:48 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Design a Function in Typescript:A Step-by-Step Guide</title>
+      <link>http://localhost:1313/posts/how-to-write-a-function/</link>
+      <pubDate>Mon, 01 Apr 2024 23:07:48 +0530</pubDate>
+      <guid>http://localhost:1313/posts/how-to-write-a-function/</guid>
+      <description>Beginners are often drawn to writing code right away when given a problem to solve. They might not fully understand the problem or if their code is correct, but the appeal of seeing code fill the screen is too tempting.&#xA;In this guide, we&amp;rsquo;ll navigate through the process of designing and implementing a Typescript function systematically.&#xA;Step 1: Define the Function Signature, Purpose, and Stub Function Signature: The signature represents the type of each argument followed by -&amp;gt; and the type of the result.</description>
+    </item>
+    <item>
+      <title>Fastify Typescript Boilerplate</title>
+      <link>http://localhost:1313/posts/fastify-typescript-boilerplate/</link>
+      <pubDate>Thu, 28 Mar 2024 16:32:49 +0530</pubDate>
+      <guid>http://localhost:1313/posts/fastify-typescript-boilerplate/</guid>
+      <description>Setting Up a Fastify TypeScript MongoDB Boilerplate In this blog post, we&amp;rsquo;ll walk through the process of setting up a boilerplate project that integrates Fastify, TypeScript, and MongoDB. This setup will allow us to build efficient and high-performance web applications and APIs in Node.js, leveraging the power of TypeScript for static typing and MongoDB for database management.&#xA;Prerequisites Before we start, ensure you have Node.js and npm installed on your system.</description>
+    </item>
+    <item>
+      <title>Typescript Repo Setup With Github Actions Ecs Series Part 1</title>
+      <link>http://localhost:1313/posts/typescript-repo-setup-with-github-actions-ecs-series-part-1/</link>
+      <pubDate>Thu, 28 Mar 2024 14:17:17 +0530</pubDate>
+      <guid>http://localhost:1313/posts/typescript-repo-setup-with-github-actions-ecs-series-part-1/</guid>
+      <description>ECS Series Part 1: base repo setup with dockerfile and github actions First step to deploy nodejs app on ECS is to have a nodejs app that is running</description>
+    </item>
     <item>
       <title>First Post</title>
-      <link>/posts/first-post/</link>
+      <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Thu, 28 Mar 2024 13:09:31 +0530</pubDate>
-      <guid>/posts/first-post/</guid>
+      <guid>http://localhost:1313/posts/first-post/</guid>
       <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
     </item>
   </channel>
